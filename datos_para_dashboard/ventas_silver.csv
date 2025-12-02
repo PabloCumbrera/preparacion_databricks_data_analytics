@@ -1,0 +1,31 @@
+ID_Venta,Fecha_Venta,ID_Producto,Nombre_Producto,Categoria_Producto,Cantidad,Total_Venta,Region
+1001,2023-01-05,P001,Laptop Ultra,Electronica,1,1200,Norte
+1002,2023-01-05,P005,Teclado Mecanico,Accesorios,2,151,Sur
+1003,2023-01-06,P002,Monitor Curvo 27,Electronica,1,350,Este
+1004,2023-01-06,P010,Silla Ergonomica,Oficina,1,180,Oeste
+1005,2023-01-07,P003,Mouse Inalambrico,Accesorios,3,75,Norte
+1006,2023-01-07,P001,Laptop Ultra,Electronica,1,1200,Sur
+1007,2023-01-08,P007,Auriculares Bluetooth,Accesorios,1,90,Este
+1008,2023-01-08,P004,Disco Duro Externo 1TB,Almacenamiento,1,60,Oeste
+1009,2023-01-09,P006,Impresora Laser,Oficina,1,250,Norte
+1010,2023-01-09,P002,Monitor Curvo 27,Electronica,2,700,Sur
+1011,2023-01-10,P008,Webcam HD,Accesorios,1,45,Este
+1012,2023-01-10,P009,Router WiFi 6,Redes,1,110,Oeste
+1013,2023-01-11,P001,Laptop Ultra,Electronica,1,1200,Norte
+1014,2023-01-11,P005,Teclado Mecanico,Accesorios,1,75.5,Sur
+1015,2023-01-12,P010,Silla Ergonomica,Oficina,2,360,Este
+1016,2023-01-12,P003,Mouse Inalambrico,Accesorios,5,125,Oeste
+1017,2023-01-13,P007,Auriculares Bluetooth,Accesorios,2,180,Norte
+1018,2023-01-13,P004,Disco Duro Externo 1TB,Almacenamiento,1,60,Sur
+1019,2023-01-14,P006,Impresora Laser,Oficina,1,250,Este
+1020,2023-01-14,P001,Laptop Ultra,Electronica,1,1200,Oeste
+1021,2023-01-15,P002,Monitor Curvo 27,Electronica,1,350,Norte
+1022,2023-01-15,P008,Webcam HD,Accesorios,2,90,Sur
+1023,2023-01-16,P009,Router WiFi 6,Redes,1,110,Este
+1024,2023-01-16,P005,Teclado Mecanico,Accesorios,1,75.5,Oeste
+1025,2023-01-17,P010,Silla Ergonomica,Oficina,1,180,Norte
+1026,2023-01-17,P003,Mouse Inalambrico,Accesorios,2,50,Sur
+1027,2023-01-18,P001,Laptop Ultra,Electronica,1,1200,Este
+1028,2023-01-18,P007,Auriculares Bluetooth,Accesorios,1,90,Oeste
+1029,2023-01-19,P004,Disco Duro Externo 1TB,Almacenamiento,2,120,Norte
+1030,2023-01-19,P006,Impresora Laser,Oficina,1,250,Sur

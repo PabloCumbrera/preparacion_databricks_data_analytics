@@ -1,0 +1,11 @@
+ID_Producto_PK,Nombre_Producto,Categoria_Producto
+P001,Laptop Ultra,Electronica
+P002,Monitor Curvo 27,Electronica
+P003,Mouse Inalambrico,Accesorios
+P004,Disco Duro Externo 1TB,Almacenamiento
+P005,Teclado Mecanico,Accesorios
+P006,Impresora Laser,Oficina
+P007,Auriculares Bluetooth,Accesorios
+P008,Webcam HD,Accesorios
+P009,Router WiFi 6,Redes
+P010,Silla Ergonomica,Oficina

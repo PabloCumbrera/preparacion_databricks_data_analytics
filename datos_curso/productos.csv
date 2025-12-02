@@ -1,0 +1,17 @@
+ID_Producto,Nombre_Producto_Detallado,Categoria_Producto,Proveedor
+P001,Laptop Ultra Pro 15in,Electronica,TechCorp
+P002,Monitor Curvo 27 Pulgadas,Perifericos,ViewSonic
+P003,Raton Ergonomico Inalambrico,Accesorios,LogiTech
+P004,Disco Duro Externo 1TB,Almacenamiento,StorageInc
+P005,Teclado Mecanico RGB,Perifericos,Razer
+P006,Impresora Laser Multifuncion,Oficina,HP
+P007,Auriculares Bluetooth Pro,Accesorios,SoundCore
+P008,Webcam Full HD 1080p,Accesorios,LogiTech
+P009,Router WiFi 6 Mesh,Redes,NetGear
+P010,Silla Ergonomica Oficina,Oficina,HermanMiller
+P011,Tablet Android 10 Pulgadas,Tablets,Samsung
+P012,Smart TV 55 Pulgadas QLED,TVs,LGElectronics
+P013,Consola de Videojuegos NextGen,Gaming,Sony
+P014,Camara Reflex Digital EOS,Fotografia,Canon
+P015,Altavoz Inteligente Plus,Audio,Amazon
+P016,Microfono Condensador USB,Audio,BlueMic
