@@ -2,5 +2,3 @@ Todo el material necesario para el curso de Udemy: Preparación - Databricks Cer
 
 
 
-content://media/external/downloads/1000038144
-
