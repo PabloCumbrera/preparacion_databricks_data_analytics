@@ -16,6 +16,6 @@ FILEFORMAT = CSV
 FORMAT_OPTIONS (
     'header' = 'true',
     'inferSchema' = 'false', -- Ya definimos el esquema, no necesitamos inferir
-    'delimiter' = ';'
+    'delimiter' = ','
 )
 COPY_OPTIONS ('force' = 'false');
